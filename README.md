@@ -1,5 +1,7 @@
 # Product Landing Page
 
+<img src="https://i.ibb.co/j6MsSk2/2025-01-14-195038.png" alt="2025-01-14-195038" border="0">
+
 **Build a Product Landing Page**
 
 **Objective:** Build an app that is functionally similar to <a href="https://product-landing-page.freecodecamp.rocks" target="_blank" rel="noopener noreferrer nofollow">https://product-landing-page.freecodecamp.rocks</a>. **Do not copy this demo project**.
